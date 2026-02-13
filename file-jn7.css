@@ -48,7 +48,7 @@ input {
     margin-top: 10px;
     border-radius: 6px;
     border: 1px solid #ccc;
-    box-sizing: border-box; /* Ensures padding doesn't affect final width */
+    box-sizing: border-box;
 }
 
 button {
